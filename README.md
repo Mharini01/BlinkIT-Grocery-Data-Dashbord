@@ -27,7 +27,3 @@ where I analyzed grocery sales data from BlinkIT to derive meaningful business i
  • Designing professional dashboards with business KPIs
  • Improving visualization clarity and user experience
  • Strengthening practical Power BI and analytical skills
-🔗 GitHub Repository:
- https://lnkd.in/g65DFy9u
-I would really appreciate feedback, suggestions, and guidance from industry professionals. Looking forward to learning and growing in the field of Data Analytics and Business Intelligence 🚀
-hashtag
